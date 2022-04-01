@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/total?style=for-the-badge)
 
 ## Revisions
-- revision 2.3.1
+- revision 2.3
   - added MCU firmware download connection 
 
 
