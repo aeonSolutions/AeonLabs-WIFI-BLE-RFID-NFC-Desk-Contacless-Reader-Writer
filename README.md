@@ -29,7 +29,6 @@ Alternatively, and if you do not want to build a PCB by yourself and like to buy
 ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/pcb_case.jpg)
 ________________________________________________________________________________________________________________
 
-
 ## PCB Parts list
 - DC2DC converter HX4002B x2 : https://s.click.aliexpress.com/e/_Ak7IPx
 - Capacitor 100nF SMD 1206 : https://s.click.aliexpress.com/e/_AVdmzr
