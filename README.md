@@ -4,7 +4,7 @@
  
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer.svg)
-![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/total?style=for-the-badge)
+![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/total)
 
 ## Revisions
 - revision 2.3
