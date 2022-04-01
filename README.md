@@ -1,4 +1,4 @@
-# AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer
+# AeonLabs WIFI BLE RFID NFC Desk Contacless Reader Writer
  This repo contains the KiCad files for the  AeonLabs WIFI BLE RFID NFC Desk Contactless Reader Writer. This PCB adds WiFi and BLE capabilities to a OEM RFID NFC reader.
  Features a RGB LED and a Buzzer and is designed to be mounted on existing commercial RFID NFC reader enclosures.
  
