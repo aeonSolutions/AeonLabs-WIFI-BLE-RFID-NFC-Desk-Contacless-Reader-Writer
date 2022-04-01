@@ -38,7 +38,7 @@ ________________________________________________________________________________
 - Buzzer x1: https://s.click.aliexpress.com/e/_AF7N6l
 - LED RGB x1: https://s.click.aliexpress.com/e/_AccXHT
 - RFID RC522 x1 (optional) : https://s.click.aliexpress.com/e/_Am0LAH
-- 
+
 
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
