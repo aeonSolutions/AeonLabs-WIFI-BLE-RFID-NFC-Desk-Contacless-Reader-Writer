@@ -1,4 +1,4 @@
-19820532819265695
+19848579407668328
 ATMEGA328P-AU
 ATMEGA328P-AU
 
@@ -14,12 +14,61 @@ Integrated Circuit
 6
 6
 AeonLabs
+Jack 2.5mm jack socket 6pin L10.5 w5.8 h3.2
+
+
+0
+6
+6
+AeonLabs
+LD1117-3v3
+
+
+0
+3
+3
+AeonLabs
 Micro_USB_pcb_socket_5pin_4weld_points
 
 
 0
 9
 6
+AeonLabs
+PCBWay Logo
+
+
+0
+0
+0
+AeonLabs
+Qi CV801x
+
+
+0
+4
+4
+AeonLabs
+SW_Push_SPST_NO_Alps_SKRK AliExpress
+http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRK/SKRKAHE020.html
+SMD SMT button
+0
+2
+2
+AeonLabs
+Spring Compression contact surface mount battery
+
+
+0
+2
+2
+AeonLabs
+TP4056
+SOP-8
+Connector
+0
+9
+9
 AeonLabs
 aeon creative commons logos
 
@@ -50,6 +99,41 @@ coffee machine icon
 0
 AeonLabs
 easyThings Logo
+
+
+0
+0
+0
+AeonLabs
+nextion logo
+
+
+0
+0
+0
+AeonLabs
+nextion logo_small
+
+
+0
+0
+0
+AeonLabs
+pcbWay Logo Collab
+
+
+0
+0
+0
+AeonLabs
+vacuum cleaner robot UV LED pcb design
+
+
+0
+0
+0
+AeonLabs
+vacuum cleaner robot pcb design
 
 
 0
@@ -2934,6 +3018,13 @@ capacitor handsolder
 2
 Capacitor_SMD
 C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_1206_3216MetricTrue
 Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
 0
@@ -6347,6 +6438,13 @@ SOIC_clipProgSmall
 
 0
 8
+8
+Connector
+SOIC_clipProgSmall 8pin
+
+
+0
+16
 8
 Connector
 SpringContact_Harwin_S1941-46R
@@ -76524,6 +76622,13 @@ resistor
 2
 2
 Resistor_SMD
+R_1206_3216MetricTrue
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Resistor_SMD
 R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
 Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -77943,6 +78048,13 @@ VL53L1x distance sensor
 VL53L1CXV0FY1 VL53L1x
 0
 13
+12
+Sensor_Distance
+VL6180X
+
+
+0
+12
 12
 Sensor_Humidity
 Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm
@@ -83040,6 +83152,13 @@ test point SMD pad rectangle square
 0
 1
 1
+TestPoint
+TestPoint_Pad_Bridge_1.0x1.0mm
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+2
+2
 TestPoint
 TestPoint_Pad_D1.0mm
 SMD pad as test Point, diameter 1.0mm
