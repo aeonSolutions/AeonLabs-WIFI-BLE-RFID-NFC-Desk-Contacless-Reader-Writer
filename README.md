@@ -1,13 +1,13 @@
-# AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer
- This repo contains the KiCad files for the  AeonLabs WIFI BLE RFID NFC Desk Contacless Reader Writer. This PCB adds WiFi and BLE capabilities to a OEM RFID NFC reader.
- Features a RGB LED and a Buzzer and is designed to be mounted on existing commecial RFID NFC reader enclosures.
+# AeonLabs WIFI BLE RFID NFC Desk Contacless Reader Writer
+ This repo contains the KiCad files for the  AeonLabs WIFI BLE RFID NFC Desk Contactless Reader Writer. This PCB adds WiFi and BLE capabilities to a OEM RFID NFC reader.
+ Features a RGB LED and a Buzzer and is designed to be mounted on existing commercial RFID NFC reader enclosures.
  
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer.svg)
-![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/total?style=for-the-badge)
+![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/total)
 
 ## Revisions
-- revision 2.3.1
+- revision 2.3
   - added MCU firmware download connection 
 
 
@@ -18,8 +18,16 @@ Or,
 
 Download the Gerber files in the release section of this repository
 
+## Join the WhatsApp Group
+If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
+[LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+
 ## Fully assembled PCB
-Alternatively, and if you do not want to build a PCB by yourself and like to buy one, mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
+Alternatively, and if you do not want to build a PCB by yourself and like to buy one, you can do it here:
+
+[Tindie.com](https://www.tindie.com/products/aeonlabs/desktop-wifi-bluetooth-rfid-nfc-readerwriter/)
+
+The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
@@ -28,7 +36,6 @@ Alternatively, and if you do not want to build a PCB by yourself and like to buy
 ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/pcb_back.png)
 ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/pcb_case.jpg)
 ________________________________________________________________________________________________________________
-
 
 ## PCB Parts list
 - DC2DC converter HX4002B x2 : https://s.click.aliexpress.com/e/_Ak7IPx
@@ -39,7 +46,7 @@ ________________________________________________________________________________
 - Buzzer x1: https://s.click.aliexpress.com/e/_AF7N6l
 - LED RGB x1: https://s.click.aliexpress.com/e/_AccXHT
 - RFID RC522 x1 (optional) : https://s.click.aliexpress.com/e/_Am0LAH
-- 
+
 
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
