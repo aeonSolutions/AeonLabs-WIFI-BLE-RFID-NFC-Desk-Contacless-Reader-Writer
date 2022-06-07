@@ -16,11 +16,7 @@ This PCB is best suited for home automation or commercial uses for #attendances 
 
 
 ## Download options
-Download this repository if you need the KiCad Files
-
-Or,
-
-Download the Gerber files in the release section of this repository
+Download this repository if you need the KiCad Files or, download the Gerber files in the release section of this repository
 
 ## Liked it ? Get a Free PCB for yourself
 Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
@@ -32,7 +28,7 @@ If you have any Questions or simply  like this kind of projects and want to stay
 ## Fully assembled PCB
 Alternatively, and if you do not want to build a PCB by yourself and like to buy one, you can do it here:
 
-[Tindie.com](https://www.tindie.com/products/aeonlabs/desktop-wifi-bluetooth-rfid-nfc-readerwriter/)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/)
 
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
