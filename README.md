@@ -14,9 +14,7 @@ This PCB is best suited for home automation or commercial uses for #attendances 
 - revision 2.3.1
   - Design and component placement corrections 
 
-
-## Download options
-Download this repository if you need the KiCad Files or, download the Gerber files in the release section of this repository
+PCB fabrication of June 2022 (reviision 2.3.1) was sponsored by [PCBWay](www.pcbway.com)
 
 ## Liked it ? Get a Free PCB for yourself
 Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
