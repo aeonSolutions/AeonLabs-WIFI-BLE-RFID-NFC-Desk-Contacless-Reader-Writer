@@ -43,7 +43,7 @@ This PCB is a #direct fit #replacement of the one found on the internet at sale.
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
-[![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/youtube.png)](https://www.youtube.com/watch?v=I_6Rg5DfPQo)
+[![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/youtube.png)](https://www.youtube.com/watch?v=LmpYdi8Umxo)
 
 [![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/youtube2.png)](https://www.youtube.com/watch?v=fLvnoaH_I7A)
 
