@@ -11,7 +11,7 @@ This PCB is best suited for home automation or commercial uses for #attendances 
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/total)
 
 ### Status
-![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png)  Powers up. Waiting to be tested.
+![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png)  Running. Barcode & QRcode ; RFID waiting to be tested.
 
 If you already tested this PCB send me a message. Thank you
 
