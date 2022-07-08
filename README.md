@@ -47,7 +47,6 @@ This PCB is a #direct fit #replacement of the one found on the internet at sale.
 
 [![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/youtube2.png)](https://www.youtube.com/watch?v=fLvnoaH_I7A)
 
-![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/pcb_case.jpg)
 ________________________________________________________________________________________________________________
 ## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
 ________________________________________________________________________________________________________________
